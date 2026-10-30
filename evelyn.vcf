@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rodríguez B.;Evelyn;;;
+FN:Evelyn Rodríguez B.
+ORG:Express-PL
+TITLE:Gerente de Ventas
+TEL;TYPE=WORK,VOICE:+525562376674
+TEL;TYPE=CELL:+525511353279
+EMAIL;TYPE=WORK:erodriguez@express-pl.com
+URL:https://express-pl.com
+ADR;TYPE=WORK:;;Av. Ceylán 959, Bodega 22, Col. Industrial Vallejo;Azcapotzalco;CDMX;02300;México
+END:VCARD
